@@ -1,4 +1,4 @@
-# Enginow User Management System
+# User Management System
 
 A robust, production-ready authentication and user management system built with Node.js, featuring email verification, JWT-based authentication, cloud-managed databases, and event-driven architecture.
 
